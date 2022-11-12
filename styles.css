@@ -1,0 +1,58 @@
+body{
+    background-color: #EDECE9;
+    font-family: Verdana, Arial, sans-serif;
+    color: #775548;
+}
+
+/* HEADER Y ESTILOS GENERALES */
+
+img{
+    width: 100%;
+}
+
+a{
+    font-weight: 800;
+    color: #EF6D2E;
+}
+
+.menu{
+    padding: 0px;
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+}
+
+.menu a{
+    font-size: x-large;
+}
+
+/* ESTILOS DE LAS SECTIONS */
+
+section h2{
+    background-color: #775548;
+    color: #E1D4CF;
+}
+
+.section1 ul li:first-child{
+    font-weight: bold;
+}
+
+.section3 p{
+    font-weight: bold;
+}
+
+.blue{
+    color: #43AFC8;
+}
+
+.red{
+    color: #F06A7E;
+}
+
+.section4 h2{
+    color: #D8B03B;
+}
+
+.section4 > ol > li:last-child{
+    font-weight: bold;
+}
